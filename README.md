@@ -8,9 +8,9 @@
 
 - 👀 Actualmente me estoy enfocando en **JavaScript**.
 
-- 📝 Actualmente estoy trabajando en [`AymCore/NightCore`](https://github.com/AymCore/NightCore) and [`IndonesianDev/NekoBocc`](https://github.com/IndonesianDev/NekoBocc)
+- 📝 Actualmente estoy trabajando en [`AymCore/NightCore`](https://github.com/AymCore/NightCore) y [`ArugaZ/whatsapp-bot`](https://github.com/ArugaZ/whatsapp-bot)
 
-- 👥 Looking for collaborators on [`AymCore/NightCore`](https://github.com/AymCore/NightCore)
+- 👥 Buscando colaboradores en [`AymCore/NightCore`](https://github.com/AymCore/NightCore)
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
