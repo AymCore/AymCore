@@ -4,13 +4,13 @@
   <img src="https://i.ibb.co/3N6SCWw/kevin.png" />
 </p>
 
-- 🌱 I’m currently learning **nothing**.
+- 🌱 Actualmente estoy aprendiendo **nada**.
 
-- 👀 I'm currently focusing on **JavaScript**.
+- 👀 Actualmente me estoy enfocando en **JavaScript**.
 
-- 📝 I'm currently working on [`SlavyanDesu/BocchiBot`](https://github.com/SlavyanDesu/BocchiBot) and [`IndonesianDev/NekoBocc`](https://github.com/IndonesianDev/NekoBocc)
+- 📝 Actualmente estoy trabajando en [`AymCore/NightCore`](https://github.com/AymCore/NightCore) and [`IndonesianDev/NekoBocc`](https://github.com/IndonesianDev/NekoBocc)
 
-- 👥 Looking for collaborators on [`SlavyanDesu/BocchiBot`](https://github.com/SlavyanDesu/BocchiBot)
+- 👥 Looking for collaborators on [`AymCore/NightCore`](https://github.com/AymCore/NightCore)
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
